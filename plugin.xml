@@ -98,6 +98,12 @@
             <dict>
               <key>CFBundleURLSchemes</key>
               <array>
+                <string>fb$APP_ID</string>
+              </array>
+            </dict>
+            <dict>
+              <key>CFBundleURLSchemes</key>
+              <array>
                 <string>waited</string>
               </array>
             </dict>
